@@ -1,7 +1,5 @@
-# gradle_hello_world
+# Java project using Gradle
 
-
-Clone the repo and run 
 
 #Build the project 
 
